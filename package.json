@@ -8,6 +8,7 @@
     "url": "git://github.com/mapbox/npm-dep-test4.git"
   },
   "dependencies": {
+    "npm-dep-test1":"~0.1.0",
     "npm-dep-test2": "https://github.com/springmeyer/npm-dep-test2/tarball/master",
     "npm-dep-test3": "https://github.com/springmeyer/npm-dep-test3/tarball/master"
   },
